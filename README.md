@@ -1,2 +1,2 @@
 # python_practice_sample
-pythonによる学習用
+pythonによるデザインパターンやアルゴリズム学習用
